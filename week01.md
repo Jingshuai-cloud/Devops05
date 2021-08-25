@@ -12,3 +12,8 @@
 2. Docker
 3. Python Local Environment Setup (Install virtualenv and activate)
 4. iterm2 vscode
+
+# Knowledge for this week
+
+1. CDN
+2. DNS
